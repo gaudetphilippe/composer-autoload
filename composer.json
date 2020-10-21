@@ -1,0 +1,14 @@
+{
+    "name": "gaudetphilippe/controller",
+    "description": "projet quete composer",
+    "authors": [
+        {
+            "name": "gaudetphilippe",
+            "email": "gaudet.philippe@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "namespaces": {"App\\": "src/Wcs"}
+    }
+}
